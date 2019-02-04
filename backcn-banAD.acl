@@ -1561,6 +1561,7 @@
 (^|\.)bilibili\.cn$
 (^|\.)bilibili\.com$
 (^|\.)bilibili\.tv$
+(^|\.)hdslb\.com$
 (^|\.)bing\.com$
 (^|\.)biqudu\.com$
 (^|\.)biquge\.com$
